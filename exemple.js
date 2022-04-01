@@ -7,7 +7,7 @@ function calculerIMC(poids, taille) {
 }
 
 alert(
-  "Votre IMC (indince de masse corporel) est de " +
+  "Votre IMC (indice de masse corporel) est de " +
     calculerIMC(poids, taille) +
     "."
 );
